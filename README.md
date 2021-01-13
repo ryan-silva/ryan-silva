@@ -1,4 +1,4 @@
-### Bem-Vindo ao meu perfil no GitHub 👋
+### Bem-Vindo ao meu perfil no _GitHub_ 👋
 
 <center>
   <table style="width:100%" style="font-size:20px;">
@@ -9,5 +9,9 @@
   </table>
 </center>
 
-### <img src = "https://www.flaticon.com/svg/static/icons/svg/3629/3629539.svg" width = 30px> * Cursando Ciência da Computação na faculdade Bandtec
---Atualmente no 2° Semestre (2020)--
+### <img src = "https://www.flaticon.com/svg/static/icons/svg/3629/3629539.svg" width = 30px> * *Cursando Ciência da Computação na faculdade Bandtec*
+<blockquote>--Atualmente no 3° Semestre (2021)--</blockquote>
+
+<h4> 
+	🚧  Carreira 🚀 Em construção...  🚧
+</h4>
