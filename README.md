@@ -10,8 +10,16 @@
 </center>
 
 ### <img src = "https://www.flaticon.com/svg/static/icons/svg/3629/3629539.svg" width = 30px> * *Cursando Ciência da Computação na faculdade Bandtec*
-<blockquote>--Atualmente no 3° Semestre (2021)--</blockquote>
+<blockquote>--Atualmente no 5° Semestre (2022)--</blockquote>
 
 <h4> 
-	🚧  Carreira 🚀 Em construção...  🚧
+	- Desenvolvedor FullStack 🚀
+	- C#
+	- Python
+	- HTML
+	- CSS
+	- Java
+	- JavaScript
+	- SQL Server
+	- MySQL
 </h4>
