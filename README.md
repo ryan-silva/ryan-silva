@@ -1,7 +1,7 @@
 ### Bem-Vindo ao meu perfil no _GitHub_ 👋
 
 <center>
-  <table style="width:100%" style="font-size:20px;">
+  <table style="width:95%" style="font-size:20px;">
     <tr>
       <td width="400px"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-silva&layout=compact&theme=omni"></td>
       <td width="400px"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ryan-silva&show_icons=true&theme=omni"></td> 
