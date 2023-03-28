@@ -27,5 +27,3 @@
 	- SQL Server
 	- MySQL
 </h4>
-
-![Snake animation](https://github.com/ryan-silva/blob/output/github-contribution-grid-snake.svg)****
